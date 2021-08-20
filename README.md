@@ -5,6 +5,8 @@ A sentiment analysis job about the problems of each major U.S. airline. Twitter 
 
 The dataset can be downloaded [here](https://www.kaggle.com/crowdflower/twitter-airline-sentiment).
 
+We got Test accuracy = 81.5%
+
 In this notebook, our goal is to identify whether a tweet is negative or non-negative (positive or neutral).
 
 This project is inspired by one of the mini-projects in the Udacity Deep Learning Nanodegree.
